@@ -1,0 +1,27 @@
+body{
+	 	background-color: #0A3095;
+	 }
+
+	 #box{
+	 	background-color: #EEEEEE;
+	 	color: black;
+	 	width: 380px;
+	 	height: 600px;
+	 	border-radius: 3px;
+	 	margin-top: 20px;
+	 	font-family:'Open Sans', sans-serif;
+	 }
+
+	 #facebook{
+	 	margin-left: 150px;
+	 	margin-top: 30px;
+	 }
+
+	 #logo{
+	 	margin-top: 30px;
+	 }
+
+	 h1{
+	 	text-align: center; 
+	 	margin-top: 100px;
+	 }
